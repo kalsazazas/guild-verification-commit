@@ -1,3 +1,3 @@
 Guild.xyz verification
-Timestamp: 2025-11-06T00:53:55.662Z
-Commit: Patch security vulnerability in authentication
+Timestamp: 2025-11-06T00:54:10.347Z
+Commit: Add export functionality for reports
